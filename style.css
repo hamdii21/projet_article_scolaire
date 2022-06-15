@@ -1,0 +1,31 @@
+/* partie header*/
+@import url('https://fonts.googleapis.com/css2?family=Oxygen+Mono&family=Roboto+Slab:wght@400;800&display=swap');
+*{
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link{
+    color: black!important;
+    font-size: 1rem;
+}
+.header{
+    background-color: rgb(0, 154, 205)!important;
+    height: 20vh;
+}
+.etape_un{
+    position: relative;
+    bottom: 65%;
+   
+   
+}
+.etape{
+    background-color: rgb(226, 225, 225)!important;
+}
+.text_un{
+    color: rgb(0, 154, 205) !important;
+}
+.text_deux{
+    color: darkgreen;
+}

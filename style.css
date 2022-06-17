@@ -15,17 +15,27 @@
     height: 20vh;
 }
 .etape_un{
-    position: relative;
     bottom: 65%;
    
    
 }
 .etape{
+    position: absolute;
     background-color: rgb(226, 225, 225)!important;
 }
 .text_un{
-    color: rgb(0, 154, 205) !important;
+    color: rgb(0, 154, 205)!important ;
 }
 .text_deux{
     color: darkgreen;
+}
+.square{
+position: relative;
+}
+.bg-img{
+    position: absolute;
+    margin-top: -750px;
+
+    margin-left: 30px;
+    margin-right: 20px;
 }
